@@ -1,5 +1,5 @@
 red
-orange
+purple
 yellow
 green
 blue
